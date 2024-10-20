@@ -1,0 +1,356 @@
+cv:
+  name: Daniil Boiko
+  location: San Francisco, CA
+  email: daniilboiko@icloud.com
+  phone: tel:+1-412-726-3270
+  website: https://boiko.sh
+  social_networks:
+    - network: LinkedIn
+      username: daniil-boiko
+    - network: GitHub
+      username: DaniilBoiko
+  sections:
+    experience:
+      - company: "Stealth Startup"
+        position: "Founding Member of Technical Staff"
+        location: "San Francisco, CA"
+        start_date: "2024-01"
+        end_date: "present"
+        highlights:
+          - "Developed a cutting-edge liver toxicity prediction model, improving performance by 2x over current industry standards, facilitating safer pharmaceutical development."
+          - "Architected and deployed a novel ML model interpretability framework for molecular predictions, enhancing explainability."
+          - "Pioneered bioisostere identification techniques, enabling innovative drug discovery strategies with faster turnaround."
+          - "Led the technical execution of multiple molecular ML initiatives, driving advancements in drug discovery and optimization workflows."
+          - "Collaborated closely with pharmaceutical customers, working hands-on with their drug discovery programs to integrate our AI-driven models into their workflows, delivering tailored solutions for toxicity prediction and molecular optimization."
+
+      - company: "Carnegie Mellon University"
+        position: "PhD Researcher"
+        location: "Pittsburgh, PA"
+        start_date: "2022-08"
+        end_date: "present"
+        highlights:
+          - "Developed stereoelectronics-aware GNN models for molecular representation learning, enhancing orbital interaction predictions and applications in quantum chemistry."
+          - "Built predictive models for enzyme-substrate catalytic activity, enabling enhanced biocatalyst design."
+          - "Led collaborations with industry leaders, including Novartis, and X (Alphabet), advancing AI-driven research."
+          - "Advanced the use of autonomous systems for scientific experimentation, pushing the boundaries of lab automation."
+
+      - company: "Mail.ru Group (VK)"
+        position: "Machine Learning Engineer"
+        location: "Moscow, Russia"
+        start_date: "2020-05"
+        end_date: "2022-06"
+        highlights:
+          - "Improved search engine ranking metrics by 4.3% through implementation of advanced ML models."
+          - "Developed privacy-preserving ranking models for VK social network people search."
+          - "Led ML consulting initiatives for internal teams, including AliExpress Russia and VK Music."
+          - "Scaled ML infrastructure using Hadoop for large-scale data processing and optimization."
+
+      - company: "N.D. Zelinsky Institute of Organic Chemistry"
+        position: "Researcher"
+        location: "Moscow, Russia"
+        start_date: "2016-09"
+        end_date: "2022-08"
+        highlights:
+          - "Spearheaded ML applications in heterogeneous catalyst research, enhancing material discovery."
+          - "Published 20+ papers in high-impact journals (including 2 in JACS)."
+          - "Managed a team of 7 undergraduate researchers, fostering collaboration and innovation."
+          - "Integrated ML techniques with electron microscopy and mass spectrometry analysis for catalyst characterization."
+
+    education:
+      - institution: "Carnegie Mellon University"
+        area: "Chemical Engineering"
+        degree: "PhD"
+        location: "Pittsburgh, PA"
+        start_date: "2022-08"
+        end_date: "present"
+
+      - institution: "Lomonosov Moscow State University"
+        area: "Chemistry"
+        degree: "Specialist (BS+MS equivalent)"
+        location: "Moscow, Russia"
+        start_date: "2016-09"
+        end_date: "2022-05"
+
+      - institution: "University of Birmingham"
+        area: "Chemistry & Mathematics"
+        degree: "Erasmus+ Exchange Program"
+        location: "Birmingham, UK"
+        start_date: "2020-01"
+        end_date: "2020-07"
+
+      - institution: "Trinity College Dublin"
+        area: "Chemistry & Computer Science"
+        degree: "Visiting Student"
+        location: "Dublin, Ireland"
+        start_date: "2018-09"
+        end_date: "2018-12"
+
+    skills:
+      - label: Programming Languages
+        details: Python, C++, SQL, JavaScript
+      - label: Machine Learning Frameworks
+        details: PyTorch, TensorFlow, scikit-learn, CatBoost
+      - label: Data Science & Big Data
+        details: Hadoop, Spark, SQL, Pandas, NumPy
+      - label: Chemistry Tools
+        details: RDKit, Mass Spectrometry, Electron Microscopy
+      - label: Other
+        details: Docker, Git
+
+    publications:
+      - title: Electron microscopy dataset for the recognition of nanoscale ordering effects and location of nanoparticles
+        authors:
+          - Daniil A Boiko
+          - Evgeniy O Pentsak
+          - Vera A Cherepanova
+          - Valentine P Ananikov
+        journal: Scientific data
+        date: 2020
+      - title: Ten-fold boost of catalytic performance in thiol--yne click reaction enabled by a palladium diketonate complex with a hexafluoroacetylacetonate ligand
+        authors:
+          - Dmitry B Eremin
+          - Daniil A Boiko
+          - Eugenia V Borkovskaya
+          - Victor N Khrustalev
+          - Victor M Chernyshev
+          - Valentine P Ananikov
+        journal: Catalysis Science & Technology
+        date: 2018
+      - title: "Mechanistic Study of Pd/NHC-Catalyzed Sonogashira Reaction: Discovery of NHC-Ethynyl Coupling Process"
+        authors:
+          - Dmitry B Eremin
+          - Daniil A Boiko
+          - Alexander Yu Kostyukovich
+          - Julia V Burykina
+          - Ekaterina A Denisova
+          - Mariarosa Anania
+          - Jonathan Martens
+          - Giel Berden
+          - Jos Oomens
+          - Jana Roithová
+        journal: Chemistry--A European Journal
+        date: 2020
+      - title: Comprehensive mass spectrometric mapping of chemical compounds for the development of algorithms for machine learning and artificial intelligence
+        authors:
+          - Julia V Burykina
+          - Daniil A Boiko
+          - Valentina VV Ilyushenkova
+          - Dmitry B Eremin
+          - Valentine P Ananikov
+        journal: Doklady Physical Chemistry
+        date: 2020
+      - title: Deep neural network analysis of nanoparticle ordering to identify defects in layered carbon materials
+        authors:
+          - Daniil A Boiko
+          - Evgeniy O Pentsak
+          - Vera A Cherepanova
+          - Evgeniy G Gordeev
+          - Valentine P Ananikov
+        journal: Chemical Science
+        date: 2021
+      - title: Neural Network Analysis of Electron Microscopy Video Data Reveals the Temperature-Driven Microphase Dynamics in the Ions/Water System
+        authors:
+          - Alexey S Kashin
+          - Daniil A Boiko
+          - Valentine P Ananikov
+        journal: Small
+        date: 2021
+      - title: Evidence for "cocktail"-type catalysis in Buchwald--Hartwig reaction. A mechanistic study
+        authors:
+          - Darya O Prima
+          - Malena Madiyeva
+          - Julia V Burykina
+          - Mikhail E Minyaev
+          - Daniil A Boiko
+          - Valentine P Ananikov
+        journal: Catalysis Science & Technology
+        date: 2021
+      - title: "Toward totally defined nanocatalysis: deep learning reveals the extraordinary activity of single Pd/C particles"
+        authors:
+          - Dmitry B Eremin
+          - Alexey S Galushko
+          - Daniil A Boiko
+          - Evgeniy O Pentsak
+          - Igor V Chistyakov
+          - Valentine P Ananikov
+        journal: Journal of the American Chemical Society
+        date: 2022
+      - title: Integration of thermal imaging and neural networks for mechanical strength analysis and fracture prediction in 3D-printed plastic parts
+        authors:
+          - Daniil A Boiko
+          - Victoria A Korabelnikova
+          - Evgeniy G Gordeev
+          - Valentine P Ananikov
+        journal: Scientific Reports
+        date: 2022
+      - title: Stereoelectronics-Aware Molecular Representation Learning
+        authors:
+          - Daniil Boiko
+          - Thiago Reschützegger
+          - Benjamin Sanchez-Lengeling
+          - Samuel Blau
+          - Gabriel Gomes
+        date: 2022
+      - title: Fully automated unconstrained analysis of high-resolution mass spectrometry data with machine learning
+        authors:
+          - Daniil A Boiko
+          - Konstantin S Kozlov
+          - Julia V Burykina
+          - Valentina V Ilyushenkova
+          - Valentine P Ananikov
+        journal: Journal of the American Chemical Society
+        date: 2022
+      - title: Automated recognition of nanoparticles in electron microscopy images of nanoscale palladium catalysts
+        authors:
+          - Daniil A Boiko
+          - Valentina V Sulimova
+          - Mikhail Yu Kurbakov
+          - Andrei V Kopylov
+          - Oleg S Seredin
+          - Vera A Cherepanova
+          - Evgeniy O Pentsak
+          - Valentine P Ananikov
+        journal: Nanomaterials
+        date: 2022
+      - title: Analyzing ionic liquid systems using real-time electron microscopy and a computational framework combining deep learning and classic computer vision techniques
+        authors:
+          - Daniil A Boiko
+          - Alexey S Kashin
+          - Vyacheslav R Sorokin
+          - Yury V Agaev
+          - Roman G Zaytsev
+          - Valentine P Ananikov
+        journal: Journal of Molecular Liquids
+        date: 2023
+      - title: "Expanding the Role of Dimeric Species: On-Cycle Involvement, Improved Stability, and Control of Stereo-Specificity. A Case Study of Atom-Economic Catalytic Hydrothiolation"
+        authors:
+          - Liliya T Sahharova
+          - Julia V Burykina
+          - Alexander Yu Kostyukovich
+          - Dmitry B Eremin
+          - Daniil A Boiko
+          - Artem N Fakhrutdinov
+          - Valentine P Ananikov
+        journal: ACS Catalysis
+        date: 2023
+      - title: Time-resolved formation and operation maps of pd catalysts suggest a key role of single atom centers in cross-coupling
+        authors:
+          - Alexey S Galushko
+          - Daniil A Boiko
+          - Evgeniy O Pentsak
+          - Dmitry B Eremin
+          - Valentine P Ananikov
+        journal: Journal of the American Chemical Society
+        date: 2023
+      - title: Digital biology approach for macroscale studies of biofilm growth and biocide effects with electron microscopy
+        authors:
+          - Konstantin S Kozlov
+          - Daniil A Boiko
+          - Elena V Detusheva
+          - Konstantin V Detushev
+          - Evgeniy O Pentsak
+          - Anatoly N Vereshchagin
+          - Valentine P Ananikov
+        journal: Digital Discovery
+        date: 2023
+      - title: Boosting the generality of catalytic systems by the synergetic ligand effect in Pd-catalyzed CN cross-coupling
+        authors:
+          - Nikolay O Grebennikov
+          - Daniil A Boiko
+          - Darya O Prima
+          - Malena Madiyeva
+          - Mikhail E Minyaev
+          - Valentine P Ananikov
+        journal: Journal of Catalysis
+        date: 2024
+      - title: Autonomous chemical research with large language models
+        authors:
+          - Daniil A Boiko
+          - Robert MacKnight
+          - Ben Kline
+          - Gabe Gomes
+        journal: Nature
+        date: 2023
+      - title: Quantitative Determination of Active Species Transforming the R-NHC Coupling Process under Catalytic Conditions
+        authors:
+          - Ekaterina D Patil
+          - Julia V Burykina
+          - Dmitry B Eremin
+          - Daniil A Boiko
+          - Konstantin E Shepelenko
+          - Valentina V Ilyushenkova
+          - Victor M Chernyshev
+          - Valentine P Ananikov
+        journal: Inorganic Chemistry
+        date: 2024
+      - title: "Machine learning meets mass spectrometry: a focused perspective"
+        authors:
+          - Daniil A Boiko
+          - Valentine P Ananikov
+        journal: preprint
+        date: 2024
+      - title: Determining the orderliness of carbon materials with nanoparticle imaging and explainable machine learning
+        authors:
+          - Mikhail Yu Kurbakov
+          - Valentina V Sulimova
+          - Andrei V Kopylov
+          - Oleg S Seredin
+          - Daniil A Boiko
+          - Alexey S Galushko
+          - Vera A Cherepanova
+          - Valentine P Ananikov
+        journal: Nanoscale
+        date: 2024
+      - title: Advancing Molecular Machine (Learned) Representations with Stereoelectronics-Infused Molecular Graphs
+        authors:
+          - Daniil A Boiko
+          - Thiago Reschützegger
+          - Benjamin Sanchez-Lengeling
+          - Samuel M Blau
+          - Gabe Gomes
+        journal: preprint
+        date: 2024
+      - title: Recognition of Molecular Structure of Phosphonium Salts from the Visual Appearance of Material with Deep Learning Can Reveal Subtle Homologs
+        authors:
+          - Daniil A Boiko
+          - Daria M Arkhipova
+          - Valentine P Ananikov
+        journal: Small
+        date: 2024
+
+design:
+  theme: engineeringresumes
+  font: Charter
+  font_size: 10pt
+  page_size: letterpaper
+  color: black
+  disable_external_link_icons: true
+  disable_page_numbering: true
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: true
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 20 pt
+  text_alignment: left-aligned
+  seperator_between_connections: $|$
+  use_icons_for_connections: false
+  margins:
+    page:
+      top: 2 cm
+      bottom: 2 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 5 pt
+      bottom: 5 pt
+      horizontal_between_connections: 10 pt
